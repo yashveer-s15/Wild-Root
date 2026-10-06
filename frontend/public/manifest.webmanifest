@@ -1,0 +1,9 @@
+{
+  "name": "WildRoot ? Find your trail",
+  "short_name": "WildRoot",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#102a20",
+  "theme_color": "#193d30",
+  "icons": [{"src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}]
+}

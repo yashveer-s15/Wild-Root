@@ -1,0 +1,10 @@
+services:
+  wildroot:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - wildroot-data:/data
+    restart: unless-stopped
+volumes:
+  wildroot-data:

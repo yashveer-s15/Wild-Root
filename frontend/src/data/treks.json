@@ -1,0 +1,2435 @@
+[
+  {
+    "id": "kedarkantha",
+    "name": "Kedarkantha",
+    "location": "Uttarakhand",
+    "difficulty": "Moderate",
+    "days": 6,
+    "altitude": 3810,
+    "distance": 20,
+    "season": "Dec–Apr",
+    "terrain": "Snow",
+    "price": 12500,
+    "description": "A winter summit above pine forests, with wide Himalayan views.",
+    "rating": 4.7,
+    "elevation_gain": 1819,
+    "weather_risk": 0.35,
+    "image": "/images/treks/kedarkantha.jpg",
+    "protected": false,
+    "highlights": [
+      "Immersive mountain landscapes",
+      "Local culture and village trails",
+      "Small-group, leave-no-trace travel"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Sankri",
+        "route": "Sankri",
+        "altitude": 1920,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Arrival, equipment check and route briefing.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      },
+      {
+        "day": 2,
+        "title": "Juda Ka Talab",
+        "route": "Juda Ka Talab",
+        "altitude": 2700,
+        "stay": "Authorized tent camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      },
+      {
+        "day": 3,
+        "title": "Kedarkantha base camp",
+        "route": "Kedarkantha base camp",
+        "altitude": 3400,
+        "stay": "Authorized tent camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Altitude and rapid weather changes"
+      },
+      {
+        "day": 4,
+        "title": "Kedarkantha summit and base camp",
+        "route": "Kedarkantha summit and base camp",
+        "altitude": 3810,
+        "stay": "Authorized tent camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Altitude and rapid weather changes"
+      },
+      {
+        "day": 5,
+        "title": "Sankri",
+        "route": "Sankri",
+        "altitude": 1920,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      },
+      {
+        "day": 6,
+        "title": "Sankri departure",
+        "route": "Sankri departure",
+        "altitude": 1920,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast; onward meals at your own cost",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      }
+    ],
+    "months": [
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "photo": "/images/treks/kedarkantha.jpg",
+    "permit": "Confirm current route registration and local access requirements with the operator.",
+    "photo_credit": {
+      "title": "Kedarkantha Peak.jpg",
+      "author": "Kanthi Kiran",
+      "source": "https://commons.wikimedia.org/wiki/File:Kedarkantha_Peak.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "hampta-pass",
+    "name": "Hampta Pass",
+    "location": "Himachal Pradesh",
+    "difficulty": "Challenging",
+    "days": 5,
+    "altitude": 4270,
+    "distance": 26,
+    "season": "Jun–Sep",
+    "terrain": "Mountain",
+    "price": 14500,
+    "description": "Cross from the green Kullu valley into the stark landscapes of Lahaul.",
+    "rating": 4.8,
+    "elevation_gain": 1966,
+    "weather_risk": 0.2,
+    "image": "/images/treks/hampta-pass.jpg",
+    "protected": false,
+    "highlights": [
+      "Immersive mountain landscapes",
+      "Local culture and village trails",
+      "Small-group, leave-no-trace travel"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Jobra",
+        "route": "Jobra",
+        "altitude": 3000,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Arrival, equipment check and route briefing.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      },
+      {
+        "day": 2,
+        "title": "Jwara",
+        "route": "Jwara",
+        "altitude": 3300,
+        "stay": "Authorized tent camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Altitude and rapid weather changes"
+      },
+      {
+        "day": 3,
+        "title": "Balu Ka Ghera",
+        "route": "Balu Ka Ghera",
+        "altitude": 3600,
+        "stay": "Authorized tent camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Altitude and rapid weather changes"
+      },
+      {
+        "day": 4,
+        "title": "Hampta Pass to Shea Goru",
+        "route": "Hampta Pass to Shea Goru",
+        "altitude": 4270,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Altitude and rapid weather changes"
+      },
+      {
+        "day": 5,
+        "title": "Chatru departure",
+        "route": "Chatru departure",
+        "altitude": 3350,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast; onward meals at your own cost",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Altitude and rapid weather changes"
+      }
+    ],
+    "months": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "photo": "/images/treks/hampta-pass.jpg",
+    "permit": "Confirm current route registration and local access requirements with the operator.",
+    "photo_credit": {
+      "title": "Mesmerising beauty of Hampta pass on Chandrataal Trek Himachal India.jpg",
+      "author": "Photos Worldwide",
+      "source": "https://commons.wikimedia.org/wiki/File:Mesmerising_beauty_of_Hampta_pass_on_Chandrataal_Trek_Himachal_India.jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    }
+  },
+  {
+    "id": "valley-of-flowers",
+    "name": "Valley of Flowers",
+    "location": "Uttarakhand",
+    "difficulty": "Moderate",
+    "days": 6,
+    "altitude": 3658,
+    "distance": 38,
+    "season": "Jul–Sep",
+    "terrain": "Valley",
+    "price": 13500,
+    "description": "Walk through a protected alpine valley known for its seasonal wildflowers.",
+    "rating": 4.9,
+    "elevation_gain": 1770,
+    "weather_risk": 0.2,
+    "image": "/images/treks/valley-of-flowers.jpg",
+    "protected": true,
+    "highlights": [
+      "Immersive mountain landscapes",
+      "Local culture and village trails",
+      "Small-group, leave-no-trace travel"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Joshimath",
+        "route": "Joshimath",
+        "altitude": 1875,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Arrival, equipment check and route briefing.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      },
+      {
+        "day": 2,
+        "title": "Govindghat to Ghangaria",
+        "route": "Govindghat to Ghangaria",
+        "altitude": 3050,
+        "stay": "Authorized tent camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Altitude and rapid weather changes"
+      },
+      {
+        "day": 3,
+        "title": "Valley of Flowers and Ghangaria",
+        "route": "Valley of Flowers and Ghangaria",
+        "altitude": 3658,
+        "stay": "Authorized tent camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Altitude and rapid weather changes"
+      },
+      {
+        "day": 4,
+        "title": "Ghangaria rest and local walks",
+        "route": "Ghangaria rest and local walks",
+        "altitude": 3050,
+        "stay": "Authorized tent camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Altitude and rapid weather changes"
+      },
+      {
+        "day": 5,
+        "title": "Govindghat",
+        "route": "Govindghat",
+        "altitude": 1800,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      },
+      {
+        "day": 6,
+        "title": "Joshimath departure",
+        "route": "Joshimath departure",
+        "altitude": 1875,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast; onward meals at your own cost",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      }
+    ],
+    "months": [
+      7,
+      8,
+      9
+    ],
+    "photo": "/images/treks/valley-of-flowers.jpg",
+    "permit": "Confirm current forest entry permits, guide requirements and campsite rules with the local forest authority.",
+    "photo_credit": {
+      "title": "Valley of flowers national park, Uttarakhand, India 03 (edit).jpg",
+      "author": "Original:  Rohit Sharma\nDerivative work:  UnpetitproleX",
+      "source": "https://commons.wikimedia.org/wiki/File:Valley_of_flowers_national_park,_Uttarakhand,_India_03_(edit).jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "kumara-parvatha",
+    "name": "Kumara Parvatha",
+    "location": "Karnataka",
+    "difficulty": "Challenging",
+    "days": 2,
+    "altitude": 1712,
+    "distance": 22,
+    "season": "Oct–Feb",
+    "terrain": "Forest",
+    "price": 4500,
+    "description": "A demanding Western Ghats ascent through forest and open grasslands.",
+    "rating": 4.7,
+    "elevation_gain": 1147,
+    "weather_risk": 0.2,
+    "image": "/images/treks/kumara-parvatha.jpg",
+    "protected": true,
+    "highlights": [
+      "Immersive mountain landscapes",
+      "Local culture and village trails",
+      "Small-group, leave-no-trace travel"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Kukke Subramanya to permitted forest rest point",
+        "route": "Kukke Subramanya to permitted forest rest point",
+        "altitude": 1000,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Arrival, equipment check and route briefing.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      },
+      {
+        "day": 2,
+        "title": "Kumara Parvatha summit and descent",
+        "route": "Kumara Parvatha summit and descent",
+        "altitude": 1712,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast; onward meals at your own cost",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      }
+    ],
+    "months": [
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "photo": "/images/treks/kumara-parvatha.jpg",
+    "permit": "Confirm current forest entry permits, guide requirements and campsite rules with the local forest authority.",
+    "photo_credit": {
+      "title": "Kumara parvatha.jpg",
+      "author": "Prashanth bhat",
+      "source": "https://commons.wikimedia.org/wiki/File:Kumara_parvatha.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "tadiandamol",
+    "name": "Tadiandamol",
+    "location": "Karnataka",
+    "difficulty": "Easy",
+    "days": 2,
+    "altitude": 1748,
+    "distance": 14,
+    "season": "Oct–Mar",
+    "terrain": "Forest",
+    "price": 3900,
+    "description": "A gentle introduction to Coorg’s misty shola forests and rolling hills.",
+    "rating": 4.8,
+    "elevation_gain": 1159,
+    "weather_risk": 0.2,
+    "image": "/images/treks/tadiandamol.jpg",
+    "protected": true,
+    "highlights": [
+      "Immersive mountain landscapes",
+      "Local culture and village trails",
+      "Small-group, leave-no-trace travel"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Kakkabe village",
+        "route": "Kakkabe village",
+        "altitude": 1000,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Arrival, equipment check and route briefing.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      },
+      {
+        "day": 2,
+        "title": "Tadiandamol summit and return",
+        "route": "Tadiandamol summit and return",
+        "altitude": 1748,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast; onward meals at your own cost",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      }
+    ],
+    "months": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "photo": "/images/treks/tadiandamol.jpg",
+    "permit": "Confirm current forest entry permits, guide requirements and campsite rules with the local forest authority.",
+    "photo_credit": {
+      "title": "Tadiandamol Trek 25Aug Pic 0 View From Top.jpg",
+      "author": "Navi guy",
+      "source": "https://commons.wikimedia.org/wiki/File:Tadiandamol_Trek_25Aug_Pic_0_View_From_Top.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "kudremukh",
+    "name": "Kudremukh",
+    "location": "Karnataka",
+    "difficulty": "Moderate",
+    "days": 2,
+    "altitude": 1894,
+    "distance": 20,
+    "season": "Oct–Feb",
+    "terrain": "Forest",
+    "price": 4200,
+    "description": "Follow streams and sweeping green ridgelines in a protected landscape.",
+    "rating": 4.9,
+    "elevation_gain": 1206,
+    "weather_risk": 0.2,
+    "image": "/images/treks/kudremukh.jpg",
+    "protected": true,
+    "highlights": [
+      "Immersive mountain landscapes",
+      "Local culture and village trails",
+      "Small-group, leave-no-trace travel"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Mullodi village",
+        "route": "Mullodi village",
+        "altitude": 1000,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Arrival, equipment check and route briefing.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      },
+      {
+        "day": 2,
+        "title": "Kudremukh summit and return",
+        "route": "Kudremukh summit and return",
+        "altitude": 1894,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast; onward meals at your own cost",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      }
+    ],
+    "months": [
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "photo": "/images/treks/kudremukh.jpg",
+    "permit": "Confirm current forest entry permits, guide requirements and campsite rules with the local forest authority.",
+    "photo_credit": {
+      "title": "Kudremukh National Park from top.jpg",
+      "author": "Navi guy",
+      "source": "https://commons.wikimedia.org/wiki/File:Kudremukh_National_Park_from_top.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "sandakphu",
+    "name": "Sandakphu",
+    "location": "West Bengal",
+    "difficulty": "Moderate",
+    "days": 6,
+    "altitude": 3636,
+    "distance": 50,
+    "season": "Oct–Apr",
+    "terrain": "Mountain",
+    "price": 15500,
+    "description": "A ridge journey with distant views of four of the world’s highest peaks.",
+    "rating": 4.7,
+    "elevation_gain": 1763,
+    "weather_risk": 0.2,
+    "image": "/images/treks/sandakphu.jpg",
+    "protected": false,
+    "highlights": [
+      "Immersive mountain landscapes",
+      "Local culture and village trails",
+      "Small-group, leave-no-trace travel"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Manebhanjan",
+        "route": "Manebhanjan",
+        "altitude": 1929,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Arrival, equipment check and route briefing.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      },
+      {
+        "day": 2,
+        "title": "Tumling",
+        "route": "Tumling",
+        "altitude": 2970,
+        "stay": "Authorized tent camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      },
+      {
+        "day": 3,
+        "title": "Kalipokhri",
+        "route": "Kalipokhri",
+        "altitude": 3186,
+        "stay": "Authorized tent camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Altitude and rapid weather changes"
+      },
+      {
+        "day": 4,
+        "title": "Sandakphu",
+        "route": "Sandakphu",
+        "altitude": 3636,
+        "stay": "Authorized tent camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Altitude and rapid weather changes"
+      },
+      {
+        "day": 5,
+        "title": "Gorkhey",
+        "route": "Gorkhey",
+        "altitude": 2280,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      },
+      {
+        "day": 6,
+        "title": "Sepi departure",
+        "route": "Sepi departure",
+        "altitude": 1900,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast; onward meals at your own cost",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      }
+    ],
+    "months": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "photo": "/images/treks/sandakphu.jpg",
+    "permit": "Confirm current route registration and local access requirements with the operator.",
+    "photo_credit": {
+      "title": "A VIEW OF MT.KANCHANJUNGA FROM SANDAKPHU.jpg",
+      "author": "Rajat63ghosh",
+      "source": "https://commons.wikimedia.org/wiki/File:A_VIEW_OF_MT.KANCHANJUNGA_FROM_SANDAKPHU.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "dayara-bugyal",
+    "name": "Dayara Bugyal",
+    "location": "Uttarakhand",
+    "difficulty": "Easy",
+    "days": 4,
+    "altitude": 3408,
+    "distance": 22,
+    "season": "May–Jun",
+    "terrain": "Valley",
+    "price": 8500,
+    "description": "Expansive alpine meadows and accessible trails above quiet mountain villages.",
+    "rating": 4.8,
+    "elevation_gain": 1690,
+    "weather_risk": 0.2,
+    "image": "/images/treks/dayara-bugyal.jpg",
+    "protected": true,
+    "highlights": [
+      "Immersive mountain landscapes",
+      "Local culture and village trails",
+      "Small-group, leave-no-trace travel"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Raithal",
+        "route": "Raithal",
+        "altitude": 1800,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Arrival, equipment check and route briefing.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      },
+      {
+        "day": 2,
+        "title": "Gui camp",
+        "route": "Gui camp",
+        "altitude": 2900,
+        "stay": "Authorized tent camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      },
+      {
+        "day": 3,
+        "title": "Dayara meadows and return to Gui",
+        "route": "Dayara meadows and return to Gui",
+        "altitude": 3408,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Altitude and rapid weather changes"
+      },
+      {
+        "day": 4,
+        "title": "Raithal departure",
+        "route": "Raithal departure",
+        "altitude": 1800,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast; onward meals at your own cost",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      }
+    ],
+    "months": [
+      5,
+      6,
+      9,
+      10,
+      12,
+      1,
+      2
+    ],
+    "photo": "/images/treks/dayara-bugyal.jpg",
+    "permit": "Confirm current forest entry permits, guide requirements and campsite rules with the local forest authority.",
+    "photo_credit": {
+      "title": "Dayara Bugyal 2.jpg",
+      "author": "Vaibhav78545",
+      "source": "https://commons.wikimedia.org/wiki/File:Dayara_Bugyal_2.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "brahmatal",
+    "name": "Brahmatal",
+    "location": "Uttarakhand",
+    "difficulty": "Moderate",
+    "days": 6,
+    "altitude": 3734,
+    "distance": 24,
+    "season": "Dec–Mar",
+    "terrain": "Snow",
+    "price": 12000,
+    "description": "Forest camps, frozen lakes, and a ridge framed by Trishul and Nanda Ghunti.",
+    "rating": 4.9,
+    "elevation_gain": 1794,
+    "weather_risk": 0.35,
+    "image": "/images/treks/brahmatal.jpg",
+    "protected": false,
+    "highlights": [
+      "Immersive mountain landscapes",
+      "Local culture and village trails",
+      "Small-group, leave-no-trace travel"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Lohajung",
+        "route": "Lohajung",
+        "altitude": 2300,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Arrival, equipment check and route briefing.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      },
+      {
+        "day": 2,
+        "title": "Bekaltal",
+        "route": "Bekaltal",
+        "altitude": 3000,
+        "stay": "Authorized tent camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      },
+      {
+        "day": 3,
+        "title": "Brahmatal camp",
+        "route": "Brahmatal camp",
+        "altitude": 3400,
+        "stay": "Authorized tent camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Altitude and rapid weather changes"
+      },
+      {
+        "day": 4,
+        "title": "Brahmatal ridge and camp",
+        "route": "Brahmatal ridge and camp",
+        "altitude": 3734,
+        "stay": "Authorized tent camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Altitude and rapid weather changes"
+      },
+      {
+        "day": 5,
+        "title": "Lohajung",
+        "route": "Lohajung",
+        "altitude": 2300,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      },
+      {
+        "day": 6,
+        "title": "Lohajung departure",
+        "route": "Lohajung departure",
+        "altitude": 2300,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast; onward meals at your own cost",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      }
+    ],
+    "months": [
+      12,
+      1,
+      2,
+      3
+    ],
+    "photo": "/images/treks/brahmatal.jpg",
+    "permit": "Confirm current route registration and local access requirements with the operator.",
+    "photo_credit": {
+      "title": "Way to Brahmatal .jpg",
+      "author": "Arijit95jitu",
+      "source": "https://commons.wikimedia.org/wiki/File:Way_to_Brahmatal_.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "triund",
+    "name": "Triund",
+    "location": "Himachal Pradesh",
+    "difficulty": "Easy",
+    "days": 2,
+    "altitude": 2850,
+    "distance": 9,
+    "season": "Mar–Jun",
+    "terrain": "Mountain",
+    "price": 3500,
+    "description": "A short Dhauladhar escape above Dharamkot, with a meadow camp and a wide valley panorama.",
+    "rating": 4.7,
+    "elevation_gain": 1370,
+    "weather_risk": 0.3,
+    "protected": true,
+    "highlights": [
+      "Distinctive mountain landscapes",
+      "Local village culture",
+      "Small-group trail exploration"
+    ],
+    "months": [
+      3,
+      4,
+      5,
+      6,
+      9,
+      10,
+      11
+    ],
+    "photo": "/images/treks/triund.jpg",
+    "image": "/images/treks/triund.jpg",
+    "permit": "Confirm current forest entry permits, guide requirements and campsite rules with the local forest authority.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Dharamkot to Triund",
+        "route": "Dharamkot to Triund",
+        "altitude": 2850,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Arrival, equipment check and route briefing.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      },
+      {
+        "day": 2,
+        "title": "Triund to Dharamkot",
+        "route": "Triund to Dharamkot",
+        "altitude": 2100,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast; onward meals at your own cost",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      }
+    ],
+    "photo_credit": {
+      "title": "Triund hill campsite.jpg",
+      "author": "Alok Kumar",
+      "source": "https://commons.wikimedia.org/wiki/File:Triund_hill_campsite.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "nag-tibba",
+    "name": "Nag Tibba",
+    "location": "Uttarakhand",
+    "difficulty": "Easy",
+    "days": 3,
+    "altitude": 3022,
+    "distance": 16,
+    "season": "Oct–Jun",
+    "terrain": "Forest",
+    "price": 6500,
+    "description": "A beginner-friendly forest climb from Pantwari to the Serpent’s Peak.",
+    "rating": 4.7,
+    "elevation_gain": 1404,
+    "weather_risk": 0.3,
+    "protected": true,
+    "highlights": [
+      "Distinctive mountain landscapes",
+      "Local village culture",
+      "Small-group trail exploration"
+    ],
+    "months": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "photo": "/images/treks/nag-tibba.jpg",
+    "image": "/images/treks/nag-tibba.jpg",
+    "permit": "Confirm current forest entry permits, guide requirements and campsite rules with the local forest authority.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Pantwari to base camp",
+        "route": "Pantwari to base camp",
+        "altitude": 2400,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Arrival, equipment check and route briefing.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      },
+      {
+        "day": 2,
+        "title": "Nag Tibba summit and base camp",
+        "route": "Nag Tibba summit and base camp",
+        "altitude": 3022,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Altitude and rapid weather changes"
+      },
+      {
+        "day": 3,
+        "title": "Pantwari departure",
+        "route": "Pantwari departure",
+        "altitude": 1400,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast; onward meals at your own cost",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      }
+    ],
+    "photo_credit": {
+      "title": "Nag Tibba 01.jpg",
+      "author": "Bhuwan Mahajan",
+      "source": "https://commons.wikimedia.org/wiki/File:Nag_Tibba_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "chopta-chandrashila",
+    "name": "Chopta Chandrashila",
+    "location": "Uttarakhand",
+    "difficulty": "Moderate",
+    "days": 3,
+    "altitude": 4000,
+    "distance": 12,
+    "season": "Mar–Jun",
+    "terrain": "Snow",
+    "price": 7500,
+    "description": "Tungnath’s stone trail and an early summit above Chopta’s alpine meadows.",
+    "rating": 4.7,
+    "elevation_gain": 1600,
+    "weather_risk": 0.3,
+    "protected": true,
+    "highlights": [
+      "Distinctive mountain landscapes",
+      "Local village culture",
+      "Small-group trail exploration"
+    ],
+    "months": [
+      3,
+      4,
+      5,
+      6,
+      9,
+      10,
+      11
+    ],
+    "photo": "/images/treks/chopta-chandrashila.jpg",
+    "image": "/images/treks/chopta-chandrashila.jpg",
+    "permit": "Confirm current forest entry permits, guide requirements and campsite rules with the local forest authority.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Chopta arrival",
+        "route": "Chopta arrival",
+        "altitude": 2600,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Arrival, equipment check and route briefing.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      },
+      {
+        "day": 2,
+        "title": "Tungnath and Chandrashila summit",
+        "route": "Tungnath and Chandrashila summit",
+        "altitude": 4000,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Altitude and rapid weather changes"
+      },
+      {
+        "day": 3,
+        "title": "Chopta departure",
+        "route": "Chopta departure",
+        "altitude": 2600,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast; onward meals at your own cost",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      }
+    ],
+    "photo_credit": {
+      "title": "Chandrashila trek.jpg",
+      "author": "Alok",
+      "source": "https://commons.wikimedia.org/wiki/File:Chandrashila_trek.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  {
+    "id": "har-ki-dun",
+    "name": "Har Ki Dun",
+    "location": "Uttarakhand",
+    "difficulty": "Moderate",
+    "days": 7,
+    "altitude": 3566,
+    "distance": 44,
+    "season": "Apr–Jun",
+    "terrain": "Valley",
+    "price": 16000,
+    "description": "A village-to-valley journey along the Supin river beneath the Swargarohini peaks.",
+    "rating": 4.7,
+    "elevation_gain": 1513,
+    "weather_risk": 0.3,
+    "protected": true,
+    "highlights": [
+      "Distinctive mountain landscapes",
+      "Local village culture",
+      "Small-group trail exploration"
+    ],
+    "months": [
+      4,
+      5,
+      6,
+      9,
+      10,
+      11
+    ],
+    "photo": "/images/treks/har-ki-dun.jpg",
+    "image": "/images/treks/har-ki-dun.jpg",
+    "permit": "Confirm current forest entry permits, guide requirements and campsite rules with the local forest authority.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Sankri",
+        "route": "Sankri",
+        "altitude": 1920,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Arrival, equipment check and route briefing.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      },
+      {
+        "day": 2,
+        "title": "Taluka to permitted village stay",
+        "route": "Taluka to permitted village stay",
+        "altitude": 2200,
+        "stay": "Authorized tent camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      },
+      {
+        "day": 3,
+        "title": "Osla region",
+        "route": "Osla region",
+        "altitude": 2600,
+        "stay": "Authorized tent camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      },
+      {
+        "day": 4,
+        "title": "Har Ki Dun valley",
+        "route": "Har Ki Dun valley",
+        "altitude": 3566,
+        "stay": "Authorized tent camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Altitude and rapid weather changes"
+      },
+      {
+        "day": 5,
+        "title": "Valley exploration and return",
+        "route": "Valley exploration and return",
+        "altitude": 3000,
+        "stay": "Authorized tent camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      },
+      {
+        "day": 6,
+        "title": "Taluka to Sankri",
+        "route": "Taluka to Sankri",
+        "altitude": 1920,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      },
+      {
+        "day": 7,
+        "title": "Sankri departure",
+        "route": "Sankri departure",
+        "altitude": 1920,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast; onward meals at your own cost",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      }
+    ],
+    "photo_credit": {
+      "title": "Har Ki Dun.jpg",
+      "author": "Metanish",
+      "source": "https://commons.wikimedia.org/wiki/File:Har_Ki_Dun.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "roopkund",
+    "name": "Roopkund region",
+    "location": "Uttarakhand",
+    "difficulty": "Challenging",
+    "days": 8,
+    "altitude": 4800,
+    "distance": 53,
+    "season": "May–Jun",
+    "terrain": "High altitude",
+    "price": 19500,
+    "description": "A demanding high-altitude route in the Roopkund region; permitted camps and access must be confirmed locally.",
+    "rating": 4.7,
+    "elevation_gain": 1760,
+    "weather_risk": 0.3,
+    "protected": true,
+    "highlights": [
+      "Distinctive mountain landscapes",
+      "Local village culture",
+      "Small-group trail exploration"
+    ],
+    "months": [
+      5,
+      6,
+      9,
+      10
+    ],
+    "photo": "/images/treks/roopkund.jpg",
+    "image": "/images/treks/roopkund.jpg",
+    "permit": "Confirm current forest entry permits, guide requirements and campsite rules with the local forest authority.",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Lohajung",
+        "route": "Lohajung",
+        "altitude": 2300,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Arrival, equipment check and route briefing.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      },
+      {
+        "day": 2,
+        "title": "Didna village",
+        "route": "Didna village",
+        "altitude": 2450,
+        "stay": "Authorized tent camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      },
+      {
+        "day": 3,
+        "title": "Ali Bugyal region",
+        "route": "Ali Bugyal region",
+        "altitude": 3300,
+        "stay": "Authorized tent camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Altitude and rapid weather changes"
+      },
+      {
+        "day": 4,
+        "title": "Permitted meadow edge camp",
+        "route": "Permitted meadow edge camp",
+        "altitude": 3400,
+        "stay": "Authorized tent camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Altitude and rapid weather changes"
+      },
+      {
+        "day": 5,
+        "title": "Permitted high camp",
+        "route": "Permitted high camp",
+        "altitude": 4100,
+        "stay": "Authorized tent camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Altitude and rapid weather changes"
+      },
+      {
+        "day": 6,
+        "title": "Authorized high-altitude excursion",
+        "route": "Authorized high-altitude excursion",
+        "altitude": 4800,
+        "stay": "Authorized tent camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Altitude and rapid weather changes"
+      },
+      {
+        "day": 7,
+        "title": "Wan village",
+        "route": "Wan village",
+        "altitude": 2450,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      },
+      {
+        "day": 8,
+        "title": "Lohajung departure",
+        "route": "Lohajung departure",
+        "altitude": 2300,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast; onward meals at your own cost",
+        "description": "Walk at a steady pace, allow breaks and confirm the day’s route with your guide.",
+        "risk": "Slippery surfaces and exposed trail sections"
+      }
+    ],
+    "photo_credit": {
+      "title": "Roopkund - The Mystery Lake.jpg",
+      "author": "Shubhamrathod15",
+      "source": "https://commons.wikimedia.org/wiki/File:Roopkund_-_The_Mystery_Lake.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "beas-kund",
+    "name": "Beas Kund",
+    "location": "Himachal Pradesh",
+    "difficulty": "Moderate",
+    "days": 3,
+    "altitude": 3700,
+    "distance": 16,
+    "season": "Jun–Sep",
+    "months": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "terrain": "Valley",
+    "price": 8500,
+    "description": "Trace the Beas river into an alpine basin above Solang Valley.",
+    "rating": 4.7,
+    "elevation_gain": 1480,
+    "weather_risk": 0.3,
+    "image": "/images/treks/beas-kund.jpg",
+    "photo": "/images/treks/beas-kund.jpg",
+    "protected": true,
+    "permit": "Confirm current forest entry rules, guide requirements and authorized camping with the local authority.",
+    "highlights": [
+      "Distinctive regional terrain",
+      "Local culture and village stops",
+      "An itinerary adapted to your pace"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Solang Valley briefing",
+        "route": "Solang Valley briefing",
+        "altitude": 2035,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      },
+      {
+        "day": 2,
+        "title": "Dhundi to permitted alpine camp",
+        "route": "Dhundi to permitted alpine camp",
+        "altitude": 3700,
+        "stay": "Authorized camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      },
+      {
+        "day": 3,
+        "title": "Beas Kund approach and return",
+        "route": "Beas Kund approach and return",
+        "altitude": 2035,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast; onward meals at own cost",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      }
+    ],
+    "source": "https://himachaltourism.gov.in/destination/adventure-trekking/",
+    "photo_credit": {
+      "title": "Beas kund.jpg",
+      "author": "Gaurav Dhingra",
+      "source": "https://commons.wikimedia.org/wiki/File:Beas_kund.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "kareri-lake",
+    "name": "Kareri Lake",
+    "location": "Himachal Pradesh",
+    "difficulty": "Moderate",
+    "days": 3,
+    "altitude": 2934,
+    "distance": 26,
+    "season": "Mar–Jun",
+    "months": [
+      3,
+      4,
+      5,
+      6,
+      9,
+      10,
+      11
+    ],
+    "terrain": "Forest",
+    "price": 7000,
+    "description": "A freshwater mountain lake reached through oak forest and streamside trails.",
+    "rating": 4.7,
+    "elevation_gain": 1174,
+    "weather_risk": 0.2,
+    "image": "/images/treks/kareri-lake.jpg",
+    "photo": "/images/treks/kareri-lake.jpg",
+    "protected": true,
+    "permit": "Confirm current forest entry rules, guide requirements and authorized camping with the local authority.",
+    "highlights": [
+      "Distinctive regional terrain",
+      "Local culture and village stops",
+      "An itinerary adapted to your pace"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Kareri village",
+        "route": "Kareri village",
+        "altitude": 1614,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Exposed edges, slippery stone and seasonal weather"
+      },
+      {
+        "day": 2,
+        "title": "Forest ascent to permitted lake camp",
+        "route": "Forest ascent to permitted lake camp",
+        "altitude": 2934,
+        "stay": "Authorized camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Exposed edges, slippery stone and seasonal weather"
+      },
+      {
+        "day": 3,
+        "title": "Kareri Lake return to village",
+        "route": "Kareri Lake return to village",
+        "altitude": 1614,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast; onward meals at own cost",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Exposed edges, slippery stone and seasonal weather"
+      }
+    ],
+    "source": "https://himachaltourism.gov.in/destination/adventure-trekking/",
+    "photo_credit": {
+      "title": "Kareri Lake 1.jpg",
+      "author": "Meerah Dhiman",
+      "source": "https://commons.wikimedia.org/wiki/File:Kareri_Lake_1.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0"
+    }
+  },
+  {
+    "id": "prashar-lake",
+    "name": "Prashar Lake",
+    "location": "Himachal Pradesh",
+    "difficulty": "Easy",
+    "days": 2,
+    "altitude": 2730,
+    "distance": 16,
+    "season": "Mar–Jun",
+    "months": [
+      3,
+      4,
+      5,
+      6,
+      9,
+      10,
+      11,
+      12
+    ],
+    "terrain": "Forest",
+    "price": 4500,
+    "description": "A forest-and-meadow walk to the lake and temple above Mandi.",
+    "rating": 4.7,
+    "elevation_gain": 1092,
+    "weather_risk": 0.2,
+    "image": "/images/treks/prashar-lake.jpg",
+    "photo": "/images/treks/prashar-lake.jpg",
+    "protected": true,
+    "permit": "Confirm current forest entry rules, guide requirements and authorized camping with the local authority.",
+    "highlights": [
+      "Distinctive regional terrain",
+      "Local culture and village stops",
+      "An itinerary adapted to your pace"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Baggi to Prashar Lake",
+        "route": "Baggi to Prashar Lake",
+        "altitude": 2730,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Exposed edges, slippery stone and seasonal weather"
+      },
+      {
+        "day": 2,
+        "title": "Lake surroundings and Baggi return",
+        "route": "Lake surroundings and Baggi return",
+        "altitude": 1502,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast; onward meals at own cost",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Exposed edges, slippery stone and seasonal weather"
+      }
+    ],
+    "source": "https://himachaltourism.gov.in/destination/adventure-trekking/",
+    "photo_credit": {
+      "title": "Parashar Lake September 2020.jpg",
+      "author": "Navneet Sharma",
+      "source": "https://commons.wikimedia.org/wiki/File:Parashar_Lake_September_2020.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "indrahar-pass",
+    "name": "Indrahar Pass",
+    "location": "Himachal Pradesh",
+    "difficulty": "Challenging",
+    "days": 4,
+    "altitude": 4342,
+    "distance": 35,
+    "season": "May–Jun",
+    "months": [
+      5,
+      6,
+      9,
+      10
+    ],
+    "terrain": "High altitude",
+    "price": 11000,
+    "description": "Climb from the Dharamkot forests toward a rugged Dhauladhar crossing.",
+    "rating": 4.7,
+    "elevation_gain": 1737,
+    "weather_risk": 0.3,
+    "image": "/images/treks/indrahar-pass.jpg",
+    "photo": "/images/treks/indrahar-pass.jpg",
+    "protected": true,
+    "permit": "Confirm current forest entry rules, guide requirements and authorized camping with the local authority.",
+    "highlights": [
+      "Distinctive regional terrain",
+      "Local culture and village stops",
+      "An itinerary adapted to your pace"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Dharamkot to Triund",
+        "route": "Dharamkot to Triund",
+        "altitude": 2388,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      },
+      {
+        "day": 2,
+        "title": "Triund to permitted high camp",
+        "route": "Triund to permitted high camp",
+        "altitude": 3148,
+        "stay": "Authorized camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      },
+      {
+        "day": 3,
+        "title": "Indrahar approach and high camp return",
+        "route": "Indrahar approach and high camp return",
+        "altitude": 4342,
+        "stay": "Authorized camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      },
+      {
+        "day": 4,
+        "title": "Dharamkot descent",
+        "route": "Dharamkot descent",
+        "altitude": 2388,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast; onward meals at own cost",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      }
+    ],
+    "source": "https://himachaltourism.gov.in/destination/adventure-trekking/",
+    "photo_credit": {
+      "title": "Looking up to the Indrahar Pass (22356846090).jpg",
+      "author": "Ashish Gupta from Noida, India",
+      "source": "https://commons.wikimedia.org/wiki/File:Looking_up_to_the_Indrahar_Pass_(22356846090).jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
+  {
+    "id": "bhrigu-lake",
+    "name": "Bhrigu Lake",
+    "location": "Himachal Pradesh",
+    "difficulty": "Moderate",
+    "days": 4,
+    "altitude": 4300,
+    "distance": 26,
+    "season": "Jun–Sep",
+    "months": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "terrain": "Valley",
+    "price": 10500,
+    "description": "High meadows and an alpine lake on the slopes above Manali.",
+    "rating": 4.7,
+    "elevation_gain": 1720,
+    "weather_risk": 0.3,
+    "image": "/images/treks/bhrigu-lake.jpg",
+    "photo": "/images/treks/bhrigu-lake.jpg",
+    "protected": true,
+    "permit": "Confirm current forest entry rules, guide requirements and authorized camping with the local authority.",
+    "highlights": [
+      "Distinctive regional terrain",
+      "Local culture and village stops",
+      "An itinerary adapted to your pace"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Manali route briefing",
+        "route": "Manali route briefing",
+        "altitude": 2365,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      },
+      {
+        "day": 2,
+        "title": "Gulaba to permitted meadow camp",
+        "route": "Gulaba to permitted meadow camp",
+        "altitude": 3118,
+        "stay": "Authorized camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      },
+      {
+        "day": 3,
+        "title": "Bhrigu Lake approach and camp return",
+        "route": "Bhrigu Lake approach and camp return",
+        "altitude": 4300,
+        "stay": "Authorized camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      },
+      {
+        "day": 4,
+        "title": "Gulaba to Manali",
+        "route": "Gulaba to Manali",
+        "altitude": 2365,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast; onward meals at own cost",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      }
+    ],
+    "source": "https://himachaltourism.gov.in/destination/adventure-trekking/",
+    "photo_credit": {
+      "title": "Bhrigu Lake by Ahmad Faiz Mustafa (3).jpg",
+      "author": "In Transit",
+      "source": "https://commons.wikimedia.org/wiki/File:Bhrigu_Lake_by_Ahmad_Faiz_Mustafa_(3).jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0"
+    }
+  },
+  {
+    "id": "chandratal",
+    "name": "Chandratal Lake",
+    "location": "Himachal Pradesh",
+    "difficulty": "Challenging",
+    "days": 4,
+    "altitude": 4300,
+    "distance": 22,
+    "season": "Jul–Sep",
+    "months": [
+      7,
+      8,
+      9
+    ],
+    "terrain": "High altitude",
+    "price": 13500,
+    "description": "A stark alpine landscape near the Moon Lake in the Spiti region.",
+    "rating": 4.7,
+    "elevation_gain": 1720,
+    "weather_risk": 0.3,
+    "image": "/images/treks/chandratal.jpg",
+    "photo": "/images/treks/chandratal.jpg",
+    "protected": true,
+    "permit": "Confirm current forest entry rules, guide requirements and authorized camping with the local authority.",
+    "highlights": [
+      "Distinctive regional terrain",
+      "Local culture and village stops",
+      "An itinerary adapted to your pace"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Manali arrival and briefing",
+        "route": "Manali arrival and briefing",
+        "altitude": 2365,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      },
+      {
+        "day": 2,
+        "title": "Transfer to authorized lower overnight stop",
+        "route": "Transfer to authorized lower overnight stop",
+        "altitude": 3118,
+        "stay": "Authorized camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      },
+      {
+        "day": 3,
+        "title": "Authorized Chandratal approach",
+        "route": "Authorized Chandratal approach",
+        "altitude": 4300,
+        "stay": "Authorized camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      },
+      {
+        "day": 4,
+        "title": "Return with acclimatization-aware travel",
+        "route": "Return with acclimatization-aware travel",
+        "altitude": 2365,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast; onward meals at own cost",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      }
+    ],
+    "source": "https://himachaltourism.gov.in/destination/adventure-trekking/",
+    "photo_credit": {
+      "title": "Chandra Taal (Lake), HP, India, D35 7333 nx01.jpg",
+      "author": "Adarsh Patel",
+      "source": "https://commons.wikimedia.org/wiki/File:Chandra_Taal_(Lake),_HP,_India,_D35_7333_nx01.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "churdhar",
+    "name": "Churdhar",
+    "location": "Himachal Pradesh",
+    "difficulty": "Moderate",
+    "days": 3,
+    "altitude": 3647,
+    "distance": 18,
+    "season": "May–Jun",
+    "months": [
+      5,
+      6,
+      9,
+      10,
+      11
+    ],
+    "terrain": "Mountain",
+    "price": 6500,
+    "description": "Forest paths and a summit ridge in Himachal’s Sirmaur region.",
+    "rating": 4.7,
+    "elevation_gain": 1459,
+    "weather_risk": 0.3,
+    "image": "/images/treks/churdhar.jpg",
+    "photo": "/images/treks/churdhar.jpg",
+    "protected": true,
+    "permit": "Confirm current forest entry rules, guide requirements and authorized camping with the local authority.",
+    "highlights": [
+      "Distinctive regional terrain",
+      "Local culture and village stops",
+      "An itinerary adapted to your pace"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Nohradhar village",
+        "route": "Nohradhar village",
+        "altitude": 2006,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      },
+      {
+        "day": 2,
+        "title": "Churdhar approach and permitted stay",
+        "route": "Churdhar approach and permitted stay",
+        "altitude": 3647,
+        "stay": "Authorized camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      },
+      {
+        "day": 3,
+        "title": "Nohradhar descent",
+        "route": "Nohradhar descent",
+        "altitude": 2006,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast; onward meals at own cost",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      }
+    ],
+    "source": "https://himachaltourism.gov.in/destination/adventure-trekking/",
+    "photo_credit": {
+      "title": "Churdhar, Sirmour (Himachal Pradesh).jpg",
+      "author": "Hariom5463",
+      "source": "https://commons.wikimedia.org/wiki/File:Churdhar,_Sirmour_(Himachal_Pradesh).jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  {
+    "id": "rajmachi",
+    "name": "Rajmachi",
+    "location": "Maharashtra",
+    "difficulty": "Easy",
+    "days": 2,
+    "altitude": 826,
+    "distance": 16,
+    "season": "Oct–Feb",
+    "months": [
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "terrain": "Waterfalls",
+    "price": 3200,
+    "description": "Sahyadri fort trails, lush valleys and seasonal cascades near Lonavala.",
+    "rating": 4.7,
+    "elevation_gain": 350,
+    "weather_risk": 0.2,
+    "image": "/images/treks/rajmachi.jpg",
+    "photo": "/images/treks/rajmachi.jpg",
+    "protected": false,
+    "permit": "Confirm current forest entry rules, guide requirements and authorized camping with the local authority.",
+    "highlights": [
+      "Distinctive regional terrain",
+      "Local culture and village stops",
+      "An itinerary adapted to your pace"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Lonavala to Udhewadi village",
+        "route": "Lonavala to Udhewadi village",
+        "altitude": 826,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Exposed edges, slippery stone and seasonal weather"
+      },
+      {
+        "day": 2,
+        "title": "Authorized fort trails and return",
+        "route": "Authorized fort trails and return",
+        "altitude": 454,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast; onward meals at own cost",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Exposed edges, slippery stone and seasonal weather"
+      }
+    ],
+    "source": "https://aai-portal.maharashtratourism.gov.in/tourist-intrests/traking-sites/",
+    "photo_credit": {
+      "title": "Rajmachi top view.jpg",
+      "author": "BHARATHGOTTEMUKKULA",
+      "source": "https://commons.wikimedia.org/wiki/File:Rajmachi_top_view.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "harishchandragad",
+    "name": "Harishchandragad",
+    "location": "Maharashtra",
+    "difficulty": "Moderate",
+    "days": 2,
+    "altitude": 1422,
+    "distance": 12,
+    "season": "Oct–Feb",
+    "months": [
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "terrain": "Mountain",
+    "price": 3800,
+    "description": "A historic hill fort and dramatic Sahyadri views via the accessible Pachnai route.",
+    "rating": 4.7,
+    "elevation_gain": 569,
+    "weather_risk": 0.2,
+    "image": "/images/treks/harishchandragad.jpg",
+    "photo": "/images/treks/harishchandragad.jpg",
+    "protected": false,
+    "permit": "Confirm current forest entry rules, guide requirements and authorized camping with the local authority.",
+    "highlights": [
+      "Distinctive regional terrain",
+      "Local culture and village stops",
+      "An itinerary adapted to your pace"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Pachnai to Harishchandragad",
+        "route": "Pachnai to Harishchandragad",
+        "altitude": 1422,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Exposed edges, slippery stone and seasonal weather"
+      },
+      {
+        "day": 2,
+        "title": "Authorized viewpoints and Pachnai descent",
+        "route": "Authorized viewpoints and Pachnai descent",
+        "altitude": 782,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast; onward meals at own cost",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Exposed edges, slippery stone and seasonal weather"
+      }
+    ],
+    "source": "https://maharashtratourism.gov.in/fort/harishchandragad/",
+    "photo_credit": {
+      "title": "Harishchandragad view from caves.jpg",
+      "author": "Tokendra",
+      "source": "https://commons.wikimedia.org/wiki/File:Harishchandragad_view_from_caves.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "kalsubai",
+    "name": "Kalsubai",
+    "location": "Maharashtra",
+    "difficulty": "Moderate",
+    "days": 1,
+    "altitude": 1646,
+    "distance": 12,
+    "season": "Oct–Feb",
+    "months": [
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "terrain": "Mountain",
+    "price": 2200,
+    "description": "A steep day ascent from Bari village to Maharashtra’s highest summit.",
+    "rating": 4.7,
+    "elevation_gain": 658,
+    "weather_risk": 0.2,
+    "image": "/images/treks/kalsubai.jpg",
+    "photo": "/images/treks/kalsubai.jpg",
+    "protected": false,
+    "permit": "Confirm current forest entry rules, guide requirements and authorized camping with the local authority.",
+    "highlights": [
+      "Distinctive regional terrain",
+      "Local culture and village stops",
+      "An itinerary adapted to your pace"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Bari village to Kalsubai summit and return",
+        "route": "Bari village to Kalsubai summit and return",
+        "altitude": 1646,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast; onward meals at own cost",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Exposed edges, slippery stone and seasonal weather"
+      }
+    ],
+    "source": "https://aai-portal.maharashtratourism.gov.in/tourist-intrests/traking-sites/",
+    "photo_credit": {
+      "title": "Kalasubai from base.jpg",
+      "author": "Mvkulkarni23",
+      "source": "https://commons.wikimedia.org/wiki/File:Kalasubai_from_base.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  {
+    "id": "ratangad",
+    "name": "Ratangad",
+    "location": "Maharashtra",
+    "difficulty": "Moderate",
+    "days": 2,
+    "altitude": 1297,
+    "distance": 12,
+    "season": "Oct–Feb",
+    "months": [
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "terrain": "Forest",
+    "price": 3500,
+    "description": "Wooded fort approaches and broad ridgeline views above Bhandardara.",
+    "rating": 4.7,
+    "elevation_gain": 519,
+    "weather_risk": 0.2,
+    "image": "/images/treks/ratangad.jpg",
+    "photo": "/images/treks/ratangad.jpg",
+    "protected": false,
+    "permit": "Confirm current forest entry rules, guide requirements and authorized camping with the local authority.",
+    "highlights": [
+      "Distinctive regional terrain",
+      "Local culture and village stops",
+      "An itinerary adapted to your pace"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Ratanwadi village and permitted stay",
+        "route": "Ratanwadi village and permitted stay",
+        "altitude": 1297,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Exposed edges, slippery stone and seasonal weather"
+      },
+      {
+        "day": 2,
+        "title": "Ratangad fort route and return",
+        "route": "Ratangad fort route and return",
+        "altitude": 713,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast; onward meals at own cost",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Exposed edges, slippery stone and seasonal weather"
+      }
+    ],
+    "source": "https://aai-portal.maharashtratourism.gov.in/tourist-intrests/traking-sites/",
+    "photo_credit": {
+      "title": "Viewing south from Ratangad (6720193039).jpg",
+      "author": "Dinesh Valke from Thane, India",
+      "source": "https://commons.wikimedia.org/wiki/File:Viewing_south_from_Ratangad_(6720193039).jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
+  {
+    "id": "rajgad",
+    "name": "Rajgad",
+    "location": "Maharashtra",
+    "difficulty": "Moderate",
+    "days": 2,
+    "altitude": 1376,
+    "distance": 14,
+    "season": "Oct–Feb",
+    "months": [
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "terrain": "Mountain",
+    "price": 3300,
+    "description": "Walk the historic machis and hill paths around a former Maratha capital.",
+    "rating": 4.7,
+    "elevation_gain": 550,
+    "weather_risk": 0.2,
+    "image": "/images/treks/rajgad.jpg",
+    "photo": "/images/treks/rajgad.jpg",
+    "protected": false,
+    "permit": "Confirm current forest entry rules, guide requirements and authorized camping with the local authority.",
+    "highlights": [
+      "Distinctive regional terrain",
+      "Local culture and village stops",
+      "An itinerary adapted to your pace"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Gunjavane village to authorized fort stay",
+        "route": "Gunjavane village to authorized fort stay",
+        "altitude": 1376,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Exposed edges, slippery stone and seasonal weather"
+      },
+      {
+        "day": 2,
+        "title": "Permitted fort circuit and Gunjavane descent",
+        "route": "Permitted fort circuit and Gunjavane descent",
+        "altitude": 757,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast; onward meals at own cost",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Exposed edges, slippery stone and seasonal weather"
+      }
+    ],
+    "source": "https://maharashtratourism.gov.in/fort/rajgad/",
+    "photo_credit": {
+      "title": "Rajgad after monsoon.jpg",
+      "author": "Goldengoof",
+      "source": "https://commons.wikimedia.org/wiki/File:Rajgad_after_monsoon.jpg",
+      "license": "Public domain",
+      "license_url": ""
+    }
+  },
+  {
+    "id": "sandhan-valley",
+    "name": "Sandhan Valley",
+    "location": "Maharashtra",
+    "difficulty": "Challenging",
+    "days": 2,
+    "altitude": 900,
+    "distance": 8,
+    "season": "Nov–Feb",
+    "months": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "terrain": "Valley",
+    "price": 4800,
+    "description": "A narrow rock gorge near Samrad requiring an experienced technical operator.",
+    "rating": 4.7,
+    "elevation_gain": 360,
+    "weather_risk": 0.2,
+    "image": "/images/treks/sandhan-valley.jpg",
+    "photo": "/images/treks/sandhan-valley.jpg",
+    "protected": false,
+    "permit": "Confirm current forest entry rules, guide requirements and authorized camping with the local authority.",
+    "highlights": [
+      "Distinctive regional terrain",
+      "Local culture and village stops",
+      "An itinerary adapted to your pace"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Samrad briefing and supervised gorge section",
+        "route": "Samrad briefing and supervised gorge section",
+        "altitude": 900,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Exposed edges, slippery stone and seasonal weather"
+      },
+      {
+        "day": 2,
+        "title": "Authorized return route with guide support",
+        "route": "Authorized return route with guide support",
+        "altitude": 495,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast; onward meals at own cost",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Exposed edges, slippery stone and seasonal weather"
+      }
+    ],
+    "source": "https://aai-portal.maharashtratourism.gov.in/tourist-intrests/traking-sites/",
+    "photo_credit": {
+      "title": "Sandhan Vally..!.jpg",
+      "author": "Benchmark3",
+      "source": "https://commons.wikimedia.org/wiki/File:Sandhan_Vally..!.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "pindari-glacier",
+    "name": "Pindari Glacier",
+    "location": "Uttarakhand",
+    "difficulty": "Moderate",
+    "days": 7,
+    "altitude": 3660,
+    "distance": 50,
+    "season": "Apr–Jun",
+    "months": [
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "terrain": "Valley",
+    "price": 17500,
+    "description": "Follow the Pindar valley through villages and forests toward the glacier viewpoint.",
+    "rating": 4.7,
+    "elevation_gain": 1464,
+    "weather_risk": 0.3,
+    "image": "/images/treks/pindari-glacier.jpg",
+    "photo": "/images/treks/pindari-glacier.jpg",
+    "protected": true,
+    "permit": "Confirm current forest entry rules, guide requirements and authorized camping with the local authority.",
+    "highlights": [
+      "Distinctive regional terrain",
+      "Local culture and village stops",
+      "An itinerary adapted to your pace"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Kharkiya arrival",
+        "route": "Kharkiya arrival",
+        "altitude": 2013,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      },
+      {
+        "day": 2,
+        "title": "Kharkiya to Khati",
+        "route": "Kharkiya to Khati",
+        "altitude": 2440,
+        "stay": "Authorized camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      },
+      {
+        "day": 3,
+        "title": "Khati to Dwali",
+        "route": "Khati to Dwali",
+        "altitude": 2867,
+        "stay": "Authorized camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      },
+      {
+        "day": 4,
+        "title": "Dwali to Phurkia",
+        "route": "Dwali to Phurkia",
+        "altitude": 3294,
+        "stay": "Authorized camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      },
+      {
+        "day": 5,
+        "title": "Authorized glacier viewpoint and Phurkia return",
+        "route": "Authorized glacier viewpoint and Phurkia return",
+        "altitude": 2867,
+        "stay": "Authorized camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      },
+      {
+        "day": 6,
+        "title": "Dwali to Khati",
+        "route": "Dwali to Khati",
+        "altitude": 3660,
+        "stay": "Authorized camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      },
+      {
+        "day": 7,
+        "title": "Kharkiya departure",
+        "route": "Kharkiya departure",
+        "altitude": 2013,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast; onward meals at own cost",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      }
+    ],
+    "source": "https://www.uttarakhandtourism.gov.in/adventures/trekking",
+    "photo_credit": {
+      "title": "Pindari glacier, Uttarakhand, India.jpg",
+      "author": "Yann (talk)",
+      "source": "https://commons.wikimedia.org/wiki/File:Pindari_glacier,_Uttarakhand,_India.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "kafni-glacier",
+    "name": "Kafni Glacier",
+    "location": "Uttarakhand",
+    "difficulty": "Challenging",
+    "days": 8,
+    "altitude": 3860,
+    "distance": 60,
+    "season": "Apr–Jun",
+    "months": [
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "terrain": "High altitude",
+    "price": 19500,
+    "description": "A quieter high-valley route branching from Dwali toward the Kafni basin.",
+    "rating": 4.7,
+    "elevation_gain": 1544,
+    "weather_risk": 0.3,
+    "image": "/images/treks/kafni-glacier.jpg",
+    "photo": "/images/treks/kafni-glacier.jpg",
+    "protected": true,
+    "permit": "Confirm current forest entry rules, guide requirements and authorized camping with the local authority.",
+    "highlights": [
+      "Distinctive regional terrain",
+      "Local culture and village stops",
+      "An itinerary adapted to your pace"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Kharkiya arrival",
+        "route": "Kharkiya arrival",
+        "altitude": 2123,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      },
+      {
+        "day": 2,
+        "title": "Khati village",
+        "route": "Khati village",
+        "altitude": 2461,
+        "stay": "Authorized camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      },
+      {
+        "day": 3,
+        "title": "Dwali camp",
+        "route": "Dwali camp",
+        "altitude": 2799,
+        "stay": "Authorized camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      },
+      {
+        "day": 4,
+        "title": "Authorized Kafni valley camp",
+        "route": "Authorized Kafni valley camp",
+        "altitude": 3136,
+        "stay": "Authorized camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      },
+      {
+        "day": 5,
+        "title": "Permitted glacier viewpoint approach",
+        "route": "Permitted glacier viewpoint approach",
+        "altitude": 3136,
+        "stay": "Authorized camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      },
+      {
+        "day": 6,
+        "title": "Return to Dwali",
+        "route": "Return to Dwali",
+        "altitude": 2799,
+        "stay": "Authorized camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      },
+      {
+        "day": 7,
+        "title": "Khati village",
+        "route": "Khati village",
+        "altitude": 3860,
+        "stay": "Authorized camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      },
+      {
+        "day": 8,
+        "title": "Kharkiya departure",
+        "route": "Kharkiya departure",
+        "altitude": 2123,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast; onward meals at own cost",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      }
+    ],
+    "source": "https://www.uttarakhandtourism.gov.in/adventures/trekking",
+    "photo_credit": {
+      "title": "Kafni glacier.jpg",
+      "author": "Anuragkjain at English Wikipedia",
+      "source": "https://commons.wikimedia.org/wiki/File:Kafni_glacier.jpg",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0"
+    }
+  },
+  {
+    "id": "gaumukh-tapovan",
+    "name": "Gaumukh Tapovan",
+    "location": "Uttarakhand",
+    "difficulty": "Challenging",
+    "days": 7,
+    "altitude": 4463,
+    "distance": 46,
+    "season": "May–Jun",
+    "months": [
+      5,
+      6,
+      9,
+      10
+    ],
+    "terrain": "High altitude",
+    "price": 21000,
+    "description": "A glacier approach and high meadow journey in Gangotri National Park.",
+    "rating": 4.7,
+    "elevation_gain": 1785,
+    "weather_risk": 0.3,
+    "image": "/images/treks/gaumukh-tapovan.jpg",
+    "photo": "/images/treks/gaumukh-tapovan.jpg",
+    "protected": true,
+    "permit": "Confirm current forest entry rules, guide requirements and authorized camping with the local authority.",
+    "highlights": [
+      "Distinctive regional terrain",
+      "Local culture and village stops",
+      "An itinerary adapted to your pace"
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Gangotri arrival",
+        "route": "Gangotri arrival",
+        "altitude": 2455,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      },
+      {
+        "day": 2,
+        "title": "Gangotri acclimatization",
+        "route": "Gangotri acclimatization",
+        "altitude": 2975,
+        "stay": "Authorized camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      },
+      {
+        "day": 3,
+        "title": "Chirbasa",
+        "route": "Chirbasa",
+        "altitude": 3496,
+        "stay": "Authorized camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      },
+      {
+        "day": 4,
+        "title": "Bhojbasa",
+        "route": "Bhojbasa",
+        "altitude": 4017,
+        "stay": "Authorized camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      },
+      {
+        "day": 5,
+        "title": "Authorized Gaumukh / Tapovan approach",
+        "route": "Authorized Gaumukh / Tapovan approach",
+        "altitude": 3496,
+        "stay": "Authorized camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      },
+      {
+        "day": 6,
+        "title": "Return to Bhojbasa",
+        "route": "Return to Bhojbasa",
+        "altitude": 4463,
+        "stay": "Authorized camp / local lodge",
+        "meals": "Breakfast, packed lunch and dinner",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      },
+      {
+        "day": 7,
+        "title": "Gangotri descent",
+        "route": "Gangotri descent",
+        "altitude": 2455,
+        "stay": "Guesthouse / homestay",
+        "meals": "Breakfast; onward meals at own cost",
+        "description": "Confirm this sample route variant, overnight stops and access with a qualified local operator.",
+        "risk": "Altitude and changing weather"
+      }
+    ],
+    "source": "https://www.uttarakhandtourism.gov.in/destination/gangotri-national-park",
+    "photo_credit": {
+      "title": "Gomukh the source of Ganga.jpg",
+      "author": "Pranab basak",
+      "source": "https://commons.wikimedia.org/wiki/File:Gomukh_the_source_of_Ganga.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  }
+]

@@ -1,0 +1,14 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.venv/
+.deps/
+*.db
+.env
+*.log
+.env.*
+!.env.example
+*.db-*
+photo-review.jpg
+photo_candidates.json

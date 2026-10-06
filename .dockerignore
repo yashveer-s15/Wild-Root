@@ -1,0 +1,14 @@
+.git
+**/node_modules
+**/dist
+**/__pycache__
+**/*.pyc
+**/*.db
+**/*.db-*
+**/.env
+**/.env.*
+**/.venv
+**/.deps
+**/*.log
+photo-review.jpg
+photo_candidates.json

@@ -1,0 +1,29 @@
+{
+  "features": [
+    "fitness",
+    "experience",
+    "age",
+    "difficulty",
+    "altitude",
+    "elevation_gain",
+    "duration",
+    "weather_risk"
+  ],
+  "scales": [
+    100.0,
+    100.0,
+    3.0,
+    3.0,
+    6000.0,
+    3000.0,
+    20.0,
+    1.0
+  ],
+  "seed": 42,
+  "samples": 6000,
+  "test_samples": 1200,
+  "test_mae_points": 1.8100050376390246,
+  "source": "Synthetic heuristic labels; no real trekking outcomes",
+  "architecture": "8 \u2192 Dense(32 ReLU) \u2192 Dense(16 ReLU) \u2192 Dense(1 sigmoid)",
+  "tensorflow_version": "2.21.0"
+}
